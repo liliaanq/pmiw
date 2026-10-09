@@ -16,6 +16,5 @@ function setup() {
 
 function draw() {
   background(0);
-  image(capi, 10, -200, 0, 0);
-  
+  image(pity, 10, 130, 0, 0);
 }
